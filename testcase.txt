@@ -1,0 +1,313 @@
+INSERT hlZO7N number false
+INSERT t1N (string,string,string)->number false
+BEGIN
+INSERT m string true
+BEGIN
+INSERT w7syt string true
+PRINT
+END
+INSERT lL string true
+PRINT
+END
+END
+INSERT ddY6 number true
+PRINT
+LOOKUP ddY6
+INSERT nP0y number false
+BEGIN
+INSERT jGxQ6 (string,string)->number true
+PRINT
+ASSIGN t1N t1N('ifh',w7syt,'J')
+LOOKUP nP0y
+PRINT
+LOOKUP jGxQ6
+LOOKUP t1N
+INSERT wxdpxq string true
+LOOKUP t1N
+PRINT
+ASSIGN w7syt m
+INSERT g3Ke0 ()->number false
+BEGIN
+END
+ASSIGN wxdpxq jGxQ6(' JU2E',hlZO7N)
+INSERT k number false
+BEGIN
+PRINT
+BEGIN
+LOOKUP g3Ke0
+ASSIGN k ddY6
+END
+LOOKUP xW
+INSERT oorj (string,number,string)->number true
+ASSIGN g3Ke0 jGxQ6(wxdpxq,wxdpxq)
+INSERT qA8Pl9 (string)->number true
+PRINT
+BEGIN
+END
+END
+LOOKUP nP0y
+ASSIGN jGxQ6 wxdpxq
+PRINT
+BEGIN
+LOOKUP w7syt
+END
+BEGIN
+LOOKUP t1N
+LOOKUP lL
+END
+LOOKUP a6Qn
+END
+ASSIGN wxdpxq ddY6
+END
+ASSIGN w7syt hlZO7N
+BEGIN
+PRINT
+END
+END
+ASSIGN k hlZO7N
+LOOKUP lL
+BEGIN
+LOOKUP hlZO7N
+PRINT
+BEGIN
+LOOKUP ddY6
+PRINT
+INSERT hV number false
+BEGIN
+END
+END
+ASSIGN g3Ke0 w7syt
+LOOKUP nP0y
+LOOKUP hV
+PRINT
+INSERT oOf number false
+LOOKUP rzga
+END
+PRINT
+END
+LOOKUP w7syt
+INSERT dq string false
+PRINT
+LOOKUP qA8Pl9
+END
+END
+ASSIGN w7syt qA8Pl9(m)
+LOOKUP hlZO7N
+PRINT
+INSERT kQ8 number true
+BEGIN
+ASSIGN hlZO7N z
+ASSIGN kQ8 m
+LOOKUP gN
+INSERT iGvTd (number,string,string)->number false
+END
+LOOKUP t1N
+BEGIN
+LOOKUP k
+END
+LOOKUP nP0y
+END
+PRINT
+BEGIN
+BEGIN
+LOOKUP hV
+LOOKUP k
+INSERT ch (string)->number true
+LOOKUP k343u
+ASSIGN m oOf
+BEGIN
+ASSIGN hV oOf
+BEGIN
+BEGIN
+END
+END
+PRINT
+LOOKUP k
+END
+ASSIGN oorj w7syt
+ASSIGN kQ8 iGvTd(k,nP0y,'zYA2')
+LOOKUP w7syt
+ASSIGN oorj t1N('W7WYa','J',m)
+INSERT iUOG4 (string,string)->number true
+BEGIN
+LOOKUP hlZO7N
+END
+LOOKUP iUOG4
+PRINT
+PRINT
+PRINT
+END
+PRINT
+INSERT c_P (string,string)->number true
+END
+END
+LOOKUP jGxQ6
+LOOKUP wxdpxq
+PRINT
+LOOKUP c_P
+ASSIGN hlZO7N nP0y
+INSERT xk8 number true
+END
+ASSIGN dq qA8Pl9(w7syt)
+LOOKUP g3Ke0
+END
+BEGIN
+INSERT oxyKI string false
+BEGIN
+PRINT
+BEGIN
+PRINT
+BEGIN
+BEGIN
+BEGIN
+END
+ASSIGN hlZO7N oxyKI
+PRINT
+PRINT
+INSERT zM (number,number,number)->string false
+ASSIGN ddY6 m
+PRINT
+LOOKUP oxyKI
+LOOKUP hlZO7N
+BEGIN
+INSERT m number false
+LOOKUP ddY6
+BEGIN
+LOOKUP qA8Pl9
+PRINT
+PRINT
+INSERT l3aD string true
+LOOKUP c_P
+BEGIN
+END
+ASSIGN oOf oOf
+PRINT
+BEGIN
+BEGIN
+INSERT iUG ()->string true
+PRINT
+BEGIN
+PRINT
+INSERT q ()->string true
+ASSIGN k m
+ASSIGN q t1N(lL,'k',wxdpxq)
+PRINT
+END
+PRINT
+PRINT
+BEGIN
+END
+BEGIN
+END
+BEGIN
+END
+INSERT zf4 number false
+BEGIN
+LOOKUP w7syt
+END
+ASSIGN hmc lL
+LOOKUP eG
+INSERT lLa string true
+LOOKUP iUG
+ASSIGN iUOG4 t1N(dq,l3aD,'fBH')
+ASSIGN xk8 lL
+INSERT v4 number true
+END
+BEGIN
+END
+LOOKUP zM
+BEGIN
+ASSIGN iGvTd q()
+END
+PRINT
+PRINT
+PRINT
+PRINT
+INSERT hH7N (number,number)->number true
+ASSIGN hlZO7N k
+BEGIN
+END
+INSERT s8f string false
+LOOKUP l3aD
+LOOKUP qA8Pl9
+PRINT
+ASSIGN wxdpxq t1N('c6YfL',zM,k)
+INSERT sF48v string true
+BEGIN
+INSERT rmW string true
+END
+INSERT v9Qx string true
+END
+BEGIN
+ASSIGN kQ8 t1N('9T6',w7syt,s8f)
+ASSIGN hlZO7N sIJRx
+END
+BEGIN
+PRINT
+LOOKUP l3aD
+BEGIN
+PRINT
+BEGIN
+BEGIN
+LOOKUP oorj
+BEGIN
+ASSIGN m zM(hlZO7N,638,v4)
+BEGIN
+ASSIGN kQ8 qA8Pl9('sP5hd')
+ASSIGN v9Qx zM(oOf,kQ8,ddY6)
+END
+INSERT kVnV string true
+LOOKUP nP0y
+END
+BEGIN
+LOOKUP wxdpxq
+INSERT vWoG number true
+ASSIGN t1N oorj(lLa,935,v9Qx)
+BEGIN
+INSERT qbFD number false
+BEGIN
+ASSIGN q m
+ASSIGN iGvTd g3Ke0()
+INSERT yT number true
+LOOKUP oorj
+ASSIGN l3aD hH7N(qbFD,466)
+BEGIN
+ASSIGN w7syt g3Ke0()
+ASSIGN kQ8 t1N('mkeY',s8f,l3aD)
+INSERT nh6oP string true
+ASSIGN nh6oP c_P(dq,'u7lJp')
+ASSIGN w7syt m
+LOOKUP nh6oP
+PRINT
+LOOKUP oorj
+BEGIN
+PRINT
+BEGIN
+ASSIGN t1N zf4
+PRINT
+ASSIGN nh6oP ddY6
+ASSIGN wxdpxq wxdpxq
+BEGIN
+INSERT jGDHL8 (number)->number true
+BEGIN
+END
+INSERT t string false
+INSERT p (string)->number true
+BEGIN
+LOOKUP wxdpxq
+ASSIGN sF48v lq
+PRINT
+ASSIGN xk8 lLa
+END
+PRINT
+INSERT bbegnG (number)->number true
+BEGIN
+END
+INSERT wtTu (string,string)->number true
+INSERT ckslb8 (string,number,string)->string false
+PRINT
+PRINT
+PRINT
+BEGIN
+END
+ASSIGN ddY6 wtTu('Z3','CJIUr')
